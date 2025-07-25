@@ -6,9 +6,13 @@ The process and key insights for analyzing revenue data within this project. Our
 
 Dataset Used
 <a href= "https://github.com/ashwinipurohith15/Revenue-Analysis-/blob/main/dim_date.csv">Dataset</a>
+
 <a href= "https://github.com/ashwinipurohith15/Revenue-Analysis-/blob/main/dim_hotels.csv">Dataset</a>
+
 <a href= "https://github.com/ashwinipurohith15/Revenue-Analysis-/blob/main/dim_rooms.csv">Dataset</a>
+
 <a href= "https://github.com/ashwinipurohith15/Revenue-Analysis-/blob/main/fact_aggregated_bookings.csv">Dataset</a>
+
 <a href= "https://github.com/ashwinipurohith15/Revenue-Analysis-/blob/main/fact_bookings.csv">Dataset</a>
 
 
