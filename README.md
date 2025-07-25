@@ -27,7 +27,7 @@ The following tables are used for revenue analysis:
 
 - fact_bookings: The primary transaction table for individual bookings, containing booking ID, hotel ID, room ID, check-in/check-out dates, number of guests, booking price, and other relevant booking-level details.
 
-- fact_aggregated_bookings: This table likely contains pre-aggregated booking data, potentially by date, hotel, or room type, which can significantly speed up certain analyses. (Assumptions about its structure are made below; adjust as per actual content).
+- fact_aggregated_bookings: This table likely contains pre-aggregated booking data, potentially by date, hotel, or room type, which can significantly speed up certain analyses.
 
 ## Key Revenue Metrics
 
