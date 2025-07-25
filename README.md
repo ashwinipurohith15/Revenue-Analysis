@@ -4,7 +4,7 @@
 
 The process and key insights for analyzing revenue data within this project. Our analysis leverages the provided dimension and fact tables to understand booking patterns, identify revenue drivers, and track performance over time.
 
-# Dataset Used
+## Dataset Used
 
 <a href= "https://github.com/ashwinipurohith15/Revenue-Analysis-/blob/main/dim_date.csv">Dataset</a>
 
@@ -29,7 +29,7 @@ The following tables are used for revenue analysis:
 
 - fact_aggregated_bookings: This table likely contains pre-aggregated booking data, potentially by date, hotel, or room type, which can significantly speed up certain analyses. (Assumptions about its structure are made below; adjust as per actual content).
 
-# Key Revenue Metrics
+## Key Revenue Metrics
 
 Our analysis focuses on, but is not limited to, the following key revenue metrics:
 
@@ -51,9 +51,9 @@ Our analysis focuses on, but is not limited to, the following key revenue metric
 
 - Cancellation Rate Impact on Revenue: Analyzing revenue loss due to cancelled bookings (if cancellation status is available in fact_bookings).
 
-# Analytical Approaches and Insights
+## Analytical Approaches and Insights
 
-# 1. Overall Revenue Performance
+## 1. Overall Revenue Performance
 
 Objective: Understand the total revenue generated over a specific period.
 
@@ -65,7 +65,7 @@ Overall financial health of the business.
 
 Identifying peak and off-peak seasons.
 
-# 2. Time-Series Revenue Analysis
+## 2. Time-Series Revenue Analysis
 
 Objective: Analyze revenue trends over time (daily, weekly, monthly, quarterly, yearly).
 
@@ -79,7 +79,7 @@ Impact of marketing campaigns or external events.
 
 Identifying periods of high growth or decline.
 
-# 3. Revenue by Hotel & Location Analysis
+## 3. Revenue by Hotel & Location Analysis
 
 Objective: Determine which hotels and cities are the highest revenue generators.
 
@@ -93,7 +93,7 @@ Understanding geographical revenue distribution.
 
 Highlighting areas for focused marketing or operational improvements.
 
-# 4. Revenue by Room Type Analysis
+## 4. Revenue by Room Type Analysis
 Objective: Understand the revenue contribution of different room categories.
 
 Query Focus: Joining fact_bookings with dim_rooms to group revenue by room_class.
@@ -106,7 +106,7 @@ Informing pricing strategies for different room classes.
 
 Optimizing room inventory.
 
-# 5. Average Daily Rate (ADR) and Revenue Per Available Room (RevPAR) Analysis
+## 5. Average Daily Rate (ADR) and Revenue Per Available Room (RevPAR) Analysis
 
 Objective: Evaluate pricing efficiency and revenue generation per available room.
 
@@ -122,7 +122,7 @@ Effectiveness of pricing strategies.
 
 Hotel performance in maximizing revenue from available inventory.
 
-# 6. Booking Channel/Source Analysis (if data available)
+## 6. Booking Channel/Source Analysis (if data available)
 
 Objective: If your fact_bookings table includes a booking_channel or source field, you can analyze revenue generated from different booking channels (e.g., direct, OTA, corporate).
 
@@ -134,7 +134,7 @@ Identifying the most profitable booking channels.
 
 Optimizing distribution strategies.
 
-# 7. Discount Impact Analysis (if data available)
+## 7. Discount Impact Analysis (if data available)
 
 Objective: If discounts are applied and recorded in fact_bookings, analyze the impact of discounts on overall revenue and profitability.
 
@@ -146,7 +146,7 @@ Effectiveness of promotional offers.
 
 Optimizing discount strategies to maximize net revenue.
 
-# Dashboard:
+## Dashboard:
 
 <img width="1325" height="799" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/615da8e8-078e-4341-a18a-af4fd254a052" />
 
