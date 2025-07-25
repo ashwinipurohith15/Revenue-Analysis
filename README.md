@@ -4,7 +4,8 @@
 
 The process and key insights for analyzing revenue data within this project. Our analysis leverages the provided dimension and fact tables to understand booking patterns, identify revenue drivers, and track performance over time.
 
-Dataset Used
+# Dataset Used
+
 <a href= "https://github.com/ashwinipurohith15/Revenue-Analysis-/blob/main/dim_date.csv">Dataset</a>
 
 <a href= "https://github.com/ashwinipurohith15/Revenue-Analysis-/blob/main/dim_hotels.csv">Dataset</a>
