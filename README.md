@@ -1,6 +1,6 @@
-## Revenue-Data-Analysis(Interactive Dashboard Creation Using Power BI)
+# Revenue-Data-Analysis(Interactive Dashboard Creation Using Power BI)
 
-# Project objective
+## Project objective
 
 The process and key insights for analyzing revenue data within this project. Our analysis leverages the provided dimension and fact tables to understand booking patterns, identify revenue drivers, and track performance over time.
 
